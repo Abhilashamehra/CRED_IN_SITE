@@ -4,8 +4,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.DS_Store
-.env
 *.csv
 *.xlsx
 *.pkl
+.DS_Store
+data/
+outputs/
+logs/
